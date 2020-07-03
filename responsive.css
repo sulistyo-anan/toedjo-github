@@ -8,6 +8,9 @@
   .top-wrapper h1 {
     font-size: 60px;
   }
+  .logo {
+  width: 100px;
+}
 
   .heading h2 {
     font-size: 40px;
